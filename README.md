@@ -21,4 +21,5 @@ Few images are given under media to test upon
 
 
 ## Example of Classification 
+(media/fruit_classifiergif.mp4)
 <img src="https://github.com/SohamSharangpani/SimpleFruitClassifier/blob/main/WhatsApp%20Image%202021-04-04%20at%203.18.47%20PM.jpeg">

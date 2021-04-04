@@ -17,6 +17,8 @@
 4. Copy the link given in output and paste it on your default browser
 5. Upload the image and test it!
 
+Few images are given under media to test upon
+
 
 ## Example of Classification 
 <img src="https://github.com/SohamSharangpani/SimpleFruitClassifier/blob/main/WhatsApp%20Image%202021-04-04%20at%203.18.47%20PM.jpeg">

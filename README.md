@@ -1,7 +1,7 @@
 # Deep Learning Projects
 
 
-# Simple Fruit Classifier(https://github.com/SohamSharangpani/DL_Projects/tree/main/SimpleFruitClassifier-main)
+# [Simple Fruit Classifier](https://github.com/SohamSharangpani/DL_Projects/tree/main/SimpleFruitClassifier-main)
 
 
 <img src="media/web_page.jpg">

@@ -1,7 +1,7 @@
 # Deep Learning
 
 
-# [Simple Fruit Classifier] (https://github.com/SohamSharangpani/DL_Projects/tree/main/SimpleFruitClassifier-main)
+# [Simple Fruit Classifier](https://github.com/SohamSharangpani/DL_Projects/tree/main/SimpleFruitClassifier-main)
 
 
 <img src="media/web_page.jpg">
@@ -25,6 +25,3 @@ Few images are given under media to test upon
 
 ## Example of Classification 
 ![fruit-clasifier](media/fruit_classifiergif.gif)
-
-
-A CNN based classifier to differentiate between rotten and fresh, apples, bananas and oranges.

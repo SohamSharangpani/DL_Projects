@@ -1,4 +1,7 @@
-# SimpleFruitClassifier
+# Deep Learning Projects
+
+
+# Simple Fruit Classifier
 
 
 <img src="media/web_page.jpg">

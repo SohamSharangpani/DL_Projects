@@ -11,13 +11,8 @@ However, our goal here is to predict the human expressions, but we have trained 
 For better prediction we have decided to keep the size of each image <b>350*350</b>.<br><br>
 <b>For any image our goal is to predict the expression of the face in that image out of seven basic human expression</b>
 ## Problem Statement
-<b>CLASSIFY THE EXPRESSION OF FACE IN IMAGE OUT OF SEVEN BASIC HUMAN EXPRESSION</b>
-## Source Data
-We have downloaded data from 4 different sources.<br>
-1. Human Images Source-1: http://www.consortium.ri.cmu.edu/ckagree/
-2. Human Images Source-2: http://app.visgraf.impa.br/database/faces/
-3. Human Images Source-3: http://www.kasrl.org/jaffe.html
-4. Animated Images Source: https://grail.cs.washington.edu/projects/deepexpr/ferg-db.html
+<b>CLASSIFY THE EXPRESSION OF FACE IN IMAGE OUT OF FIVE BASIC HUMAN EXPRESSION</b>
+
 ## Real-World Business Objective & Constraints
 1. Low-latency is required.
 2. Interpretability is important for still images but not in real time. For still images, probability of predicted expressions can be given.

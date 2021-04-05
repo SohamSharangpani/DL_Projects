@@ -1,5 +1,6 @@
 # Deep Learning
 
+We did two projects for deep learning during our course in Semester VI. They are given below.
 
 # [Simple Fruit Classifier](https://github.com/SohamSharangpani/DL_Projects/tree/main/SimpleFruitClassifier-main)
 
@@ -25,3 +26,5 @@ Few images are given under media to test upon
 
 ## Example of Classification 
 ![fruit-clasifier](media/fruit_classifiergif.gif)
+
+### contributors

@@ -28,7 +28,7 @@ Few images are given under media to test upon
 ![fruit-clasifier](media/fruit_classifiergif.gif)
 
 
-# Real Time Face Expression Recognition
+# [Real Time Face Expression Recognition](https://github.com/SohamSharangpani/DL_Projects/tree/main/Facial_Expression_Flask)
 
 <img src="media/Facial-Expressions.png">
 

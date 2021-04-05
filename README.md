@@ -63,7 +63,12 @@ You need to have installed following softwares and libraries in your machine bef
 ![emotion](media/FEgif.gif)
 
 ### Contributors
-Parisha Bhatia J008
-Soham Sharangpani J044
-Yash Doshi J015
-Avneesh Dubey J016
+
+
+- [Parisha Bhatia](https://github.com/ParishaKB) J008
+
+- [Soham Sharangpani](https://github.com/SohamSharangpani) J044
+
+- [Yash Doshi](https://github.com/YASHDOSHI5)  J015
+
+- [Avneesh Dubey](https://github.com/avneeshdubey99) J016

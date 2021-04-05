@@ -59,5 +59,7 @@ You need to have installed following softwares and libraries in your machine bef
 3. OpenCV
 4. keras
 
+## Example
+![emotion](media/FEgif.gif)
 
 ### Contributors

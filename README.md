@@ -27,4 +27,4 @@ Few images are given under media to test upon
 ## Example of Classification 
 ![fruit-clasifier](media/fruit_classifiergif.gif)
 
-### contributors
+### Contributors

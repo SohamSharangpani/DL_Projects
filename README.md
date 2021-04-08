@@ -65,10 +65,12 @@ You need to have installed following softwares and libraries in your machine bef
 ### Contributors
 
 
-- [Parisha Bhatia](https://github.com/ParishaKB) J008
+- [Parisha Bhatia](https://github.com/ParishaKB) - J008
 
-- [Soham Sharangpani](https://github.com/SohamSharangpani) J044
+- [Soham Sharangpani](https://github.com/SohamSharangpani) - J044
+- 
+- [Avneesh Dubey](https://github.com/avneeshdubey99) - J016
 
-- [Yash Doshi](https://github.com/YASHDOSHI5)  J015
+- [Yash Doshi](https://github.com/YASHDOSHI5) - J015
 
-- [Avneesh Dubey](https://github.com/avneeshdubey99) J016
+
